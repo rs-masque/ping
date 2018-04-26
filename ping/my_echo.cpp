@@ -3,5 +3,5 @@
 
 bool my_echo(string hostname)
 {
-
+	return false;
 }

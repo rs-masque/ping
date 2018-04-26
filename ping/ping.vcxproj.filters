@@ -32,6 +32,9 @@
     <ClCompile Include="ping.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="my_help.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
     <ClCompile Include="my_echo.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
