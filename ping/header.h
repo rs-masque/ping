@@ -14,3 +14,5 @@ using namespace std;
 #define TCHAR char
 #define TEXT(p) p
 #endif
+
+void my_help(void);
