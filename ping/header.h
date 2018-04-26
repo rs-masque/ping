@@ -16,3 +16,4 @@ using namespace std;
 #endif
 
 void my_help(void);
+bool my_echo(string hostname);
