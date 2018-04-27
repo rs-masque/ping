@@ -1,7 +1,12 @@
 #include "stdafx.h"
 #include "header.h"
 
-bool my_echo(string host)
+int my_echo(string host)
 {
-	return false;
+	return 0;
+}
+
+int my_echo(string host, string path)
+{
+	return 0;
 }

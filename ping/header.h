@@ -20,4 +20,7 @@ using namespace std;
 #endif
 
 void my_help(void);
-bool my_echo(string host);
+int my_start(int argc, TCHAR** argv, TCHAR* host , TCHAR* path, ofstream& log_stream);
+string my_diag(int my_err);
+int my_echo(string host);
+int my_echo(string host, string path);
